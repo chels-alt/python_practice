@@ -1,6 +1,0 @@
-for num in range(10):
-    if num % 3 == 0:
-        continue
-    if num == 8:
-        break
-    print(num)
