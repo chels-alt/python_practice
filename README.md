@@ -11,28 +11,26 @@ This repository documents my hands-on journey of learning Python through coding 
 - Conditional Statements
 - Loops
 - Lists, Tuples, Dictionaries, and Sets
-- Functions and Modules
-- File Handling
-- Exception Handling
+- Functions
+- Modules and Imports
 - Object-Oriented Programming (OOP)
   - Classes and Objects
   - Inheritance
   - Method Overriding
   - Encapsulation
   - Polymorphism
+- File Handling
+- Exception Handling
 - JSON Handling
 - Working with APIs
 - Git and GitHub
 
 ## 💻 Projects
 
-### 1. Contact Book Application
-A beginner-level Python application that allows users to:
-- Add new contacts
-- Store names and phone numbers
-- View saved contacts
+### 1. Calculator Module Practice
+A small exercise that defines functions in one Python file and imports them from another.
 
-**Concepts practiced:** Lists, loops, conditional statements, user input, and basic data management.
+**Concepts practiced:** Functions, modules, and imports.
 
 ## 🛠️ Tools & Technologies
 
