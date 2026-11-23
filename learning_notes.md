@@ -1,1 +1,2 @@
-I am currently learning file handling in python!
+I am learning Python file handling!
+I am also learning Git and GitHub!
