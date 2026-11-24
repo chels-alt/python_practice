@@ -1,0 +1,10 @@
+{
+    "name": "Chelsiya",
+    "age": 25,
+    "role": "Python Developer",
+    "skills": [
+        "Python",
+        "Git",
+        "GitHub"
+    ]
+}
